@@ -1,7 +1,6 @@
-# Anti-xray-pluginHow does it work?
- 
+# Anti-xray-plugin
 
- 
+How does it work?
 
 Basically, players are limited in the amount of valuable ores they can mine, based on their play time on the server. Legitimate, non-cheating players probably won't notice because the default limits are generous, but xrayers will be blocked from mining ore too quickly. So cheaters can still cheat, but they can't take more than a non-cheating player's reasonable share of ore. So their only gain is avoiding monsters while digging. They can't mine their first diamonds/"other good stuff" sooner than non-cheating players, and they can't take more total than they could if they weren't cheating.
 
